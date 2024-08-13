@@ -33,7 +33,7 @@ body {
 }
 
 .two {
-  font-size: 1.2rem;
+  font-size: 2rem;
   font-weight: lighter;
 }
 
@@ -52,7 +52,7 @@ body {
 
 .text-box p {
   margin: 0;
-  text-align: left;
+  text-align: justify;
 }
 
 .text-box span {
@@ -109,10 +109,10 @@ body {
 }
 
 .six .hat {
-  left: 41.5%;
+  left: 60%;
   position: absolute;
   /* transform: scale(0.1); */
-  top: -35%;
+  top: -30%;
   width: 80px;
 }
 
@@ -246,7 +246,7 @@ body {
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 32%;
+    left: 30%;
   }
 }
 
